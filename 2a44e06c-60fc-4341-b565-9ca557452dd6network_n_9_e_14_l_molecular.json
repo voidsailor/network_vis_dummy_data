@@ -1,277 +1,237 @@
 {
     "edges": {
         "0": {
-            "dataRef": "07b95ff3-cb67-4ffa-ae86-6e10bc9cf265",
+            "dataRef": "e4ce6c85-c5e4-4986-b6aa-5753b21e1a10",
             "edgeId": "0",
             "edgeType": "undirected",
             "flux": 0,
             "label": "edge_0",
             "modelElementRef": "",
-            "source": "2",
-            "target": "5"
+            "source": "0",
+            "target": "8"
         },
         "1": {
-            "dataRef": "defb32fc-49d4-4aa1-ba10-95e0871e614a",
+            "dataRef": "534c8e5f-a6f3-4155-9c92-8f4b0368c32a",
             "edgeId": "1",
             "edgeType": "undirected",
             "flux": 0,
             "label": "edge_1",
             "modelElementRef": "",
-            "source": "5",
+            "source": "8",
             "target": "3"
         },
         "10": {
-            "dataRef": "1b3397db-2f0d-4310-99b9-e9223c6c0a73",
+            "dataRef": "ff31cb74-9ac2-49db-acd8-cacd8f9de2b8",
             "edgeId": "10",
             "edgeType": "undirected",
             "flux": 0,
             "label": "edge_10",
             "modelElementRef": "",
             "source": "1",
-            "target": "7"
+            "target": "5"
         },
         "11": {
-            "dataRef": "f6e2cee0-3271-475d-ae06-67c664e01e7f",
+            "dataRef": "fa776c4a-fb4f-4883-9b85-41194ddb8177",
             "edgeId": "11",
             "edgeType": "undirected",
             "flux": 0,
             "label": "edge_11",
             "modelElementRef": "",
-            "source": "7",
+            "source": "5",
             "target": "2"
         },
         "12": {
-            "dataRef": "72a9fa3f-516d-4e9f-ab4d-34ae62e65ddc",
+            "dataRef": "429db0a8-5c1f-42d1-900a-4342978301e8",
             "edgeId": "12",
             "edgeType": "undirected",
             "flux": 0,
             "label": "edge_12",
             "modelElementRef": "",
             "source": "0",
-            "target": "7"
+            "target": "6"
         },
         "13": {
-            "dataRef": "b0e88624-df33-422a-9c80-3dc541ad43e6",
+            "dataRef": "75a4bfcc-55de-42a0-b70d-3b1f434cb944",
             "edgeId": "13",
             "edgeType": "undirected",
             "flux": 0,
             "label": "edge_13",
             "modelElementRef": "",
-            "source": "7",
-            "target": "1"
-        },
-        "14": {
-            "dataRef": "cd4dc431-9d1e-4b39-b4fe-db9e61486c80",
-            "edgeId": "14",
-            "edgeType": "undirected",
-            "flux": 0,
-            "label": "edge_14",
-            "modelElementRef": "",
-            "source": "0",
-            "target": "7"
-        },
-        "15": {
-            "dataRef": "ff1acc49-c4fd-40c6-95f0-195ef49a1520",
-            "edgeId": "15",
-            "edgeType": "undirected",
-            "flux": 0,
-            "label": "edge_15",
-            "modelElementRef": "",
-            "source": "7",
-            "target": "4"
-        },
-        "16": {
-            "dataRef": "c17ecb08-5e8a-411d-85f0-dfac500b1ee0",
-            "edgeId": "16",
-            "edgeType": "undirected",
-            "flux": 0,
-            "label": "edge_16",
-            "modelElementRef": "",
-            "source": "0",
-            "target": "7"
-        },
-        "17": {
-            "dataRef": "af693771-13a0-477b-b0bd-7725ca9689fa",
-            "edgeId": "17",
-            "edgeType": "undirected",
-            "flux": 0,
-            "label": "edge_17",
-            "modelElementRef": "",
-            "source": "7",
+            "source": "6",
             "target": "3"
         },
         "2": {
-            "dataRef": "bed800c3-6d31-4396-b915-5c467ea77ac3",
+            "dataRef": "d8e96b3f-f873-4cef-a2e7-3eb200c21ee5",
             "edgeId": "2",
             "edgeType": "undirected",
             "flux": 0,
             "label": "edge_2",
             "modelElementRef": "",
             "source": "0",
-            "target": "5"
+            "target": "7"
         },
         "3": {
-            "dataRef": "4cc8496f-371a-46c7-8c5d-d98de0392f8b",
+            "dataRef": "ad1c9be2-246f-4147-9ca8-0a6504e9ec5a",
             "edgeId": "3",
             "edgeType": "undirected",
             "flux": 0,
             "label": "edge_3",
             "modelElementRef": "",
-            "source": "5",
-            "target": "4"
+            "source": "7",
+            "target": "1"
         },
         "4": {
-            "dataRef": "06872d53-0bd5-421e-b474-b97a9c78bb57",
+            "dataRef": "478112e2-9fde-4f7c-9f5f-c5da4b784ad1",
             "edgeId": "4",
             "edgeType": "undirected",
             "flux": 0,
             "label": "edge_4",
             "modelElementRef": "",
-            "source": "0",
-            "target": "5"
+            "source": "1",
+            "target": "7"
         },
         "5": {
-            "dataRef": "11db1a4d-03d3-4ad3-bbc3-548292cc816c",
+            "dataRef": "10bf3d01-2f20-481c-94eb-a2d398ee0f2c",
             "edgeId": "5",
             "edgeType": "undirected",
             "flux": 0,
             "label": "edge_5",
             "modelElementRef": "",
-            "source": "5",
-            "target": "1"
+            "source": "7",
+            "target": "2"
         },
         "6": {
-            "dataRef": "993ffa02-8970-4834-b634-f2d8b17858de",
+            "dataRef": "d7b2b0aa-2831-4fd0-8a57-fd1ae6816c3b",
             "edgeId": "6",
             "edgeType": "undirected",
             "flux": 0,
             "label": "edge_6",
             "modelElementRef": "",
             "source": "1",
-            "target": "6"
+            "target": "5"
         },
         "7": {
-            "dataRef": "7fc9a557-edef-46d3-a6a2-a873cbcfa457",
+            "dataRef": "38c22cfb-b53a-4861-88a7-fd4284537694",
             "edgeId": "7",
             "edgeType": "undirected",
             "flux": 0,
             "label": "edge_7",
             "modelElementRef": "",
-            "source": "6",
-            "target": "2"
+            "source": "5",
+            "target": "4"
         },
         "8": {
-            "dataRef": "2fd4ce9b-cdee-4266-9075-ad0645459635",
+            "dataRef": "095fa600-358d-4737-b42e-8a386cc10e0d",
             "edgeId": "8",
             "edgeType": "undirected",
             "flux": 0,
             "label": "edge_8",
             "modelElementRef": "",
-            "source": "2",
-            "target": "8"
+            "source": "0",
+            "target": "5"
         },
         "9": {
-            "dataRef": "cd66a8a2-a534-41b0-be0a-ae35a3002346",
+            "dataRef": "740d0517-3e7e-4899-84a0-a7ac0504956f",
             "edgeId": "9",
             "edgeType": "undirected",
             "flux": 0,
             "label": "edge_9",
             "modelElementRef": "",
-            "source": "8",
-            "target": "3"
+            "source": "5",
+            "target": "4"
         }
     },
     "level": "molecular",
     "nodes": {
         "0": {
-            "dataRef": "167efc9d-1a3d-4099-b2d9-c7e6b06acad1",
+            "dataRef": "4ab50af5-2eb2-4e8b-803f-b77fdb86004c",
             "isSecondaryMetabolite": false,
             "label": "node_0",
             "modelElementRef": "",
             "nodeId": "0",
             "nodeType": "circle",
-            "x": 23,
-            "y": 97
+            "x": 20,
+            "y": 90
         },
         "1": {
-            "dataRef": "23eeaaf9-7f3f-464f-8781-eb851b94aa4e",
+            "dataRef": "a9453956-0c6a-4300-b68d-a34d778104ed",
             "isSecondaryMetabolite": false,
             "label": "node_1",
             "modelElementRef": "",
             "nodeId": "1",
             "nodeType": "circle",
-            "x": 36,
-            "y": 83
+            "x": 91,
+            "y": 73
         },
         "2": {
-            "dataRef": "d0c7491d-d128-482c-af50-687e40f34efe",
+            "dataRef": "8a0c969d-6540-49e4-8c9b-c9588f1aebe1",
             "isSecondaryMetabolite": false,
             "label": "node_2",
             "modelElementRef": "",
             "nodeId": "2",
             "nodeType": "circle",
-            "x": 23,
-            "y": 86
+            "x": 2,
+            "y": 92
         },
         "3": {
-            "dataRef": "0143c097-9fe2-4878-8d99-e782a41a0234",
+            "dataRef": "28c61b2b-686d-41ee-9815-04aa1bf3d61a",
             "isSecondaryMetabolite": false,
             "label": "node_3",
             "modelElementRef": "",
             "nodeId": "3",
             "nodeType": "circle",
-            "x": 58,
-            "y": 73
+            "x": 7,
+            "y": 6
         },
         "4": {
-            "dataRef": "0e72cd47-4e66-4130-b518-0eb46953677d",
+            "dataRef": "d9472fcf-a861-45c3-99b1-34004959eda8",
             "isSecondaryMetabolite": false,
             "label": "node_4",
             "modelElementRef": "",
             "nodeId": "4",
             "nodeType": "circle",
-            "x": 23,
-            "y": 4
+            "x": 73,
+            "y": 25
         },
         "5": {
-            "dataRef": "2b35be1f-9e2d-4308-8faf-c1703798b0f7",
+            "dataRef": "63078072-dc65-481b-8c5e-1264d5b113f5",
             "isSecondaryMetabolite": false,
             "label": "node_5",
             "modelElementRef": "",
             "nodeId": "5",
             "nodeType": "diamond",
-            "x": 36,
-            "y": 67
+            "x": 41,
+            "y": 0
         },
         "6": {
-            "dataRef": "a6135a1e-8cef-4987-b387-0e500063e4c5",
+            "dataRef": "4a363f73-3668-4f49-bd16-82b2503b07a3",
             "isSecondaryMetabolite": false,
             "label": "node_6",
             "modelElementRef": "",
             "nodeId": "6",
             "nodeType": "diamond",
-            "x": 25,
-            "y": 94
+            "x": 2,
+            "y": 71
         },
         "7": {
-            "dataRef": "e59e55b6-b61e-46f5-886c-eccc22e6ebde",
+            "dataRef": "dee0931f-fce5-48c8-8330-4bc48310caa9",
             "isSecondaryMetabolite": false,
             "label": "node_7",
             "modelElementRef": "",
             "nodeId": "7",
             "nodeType": "diamond",
-            "x": 93,
-            "y": 88
+            "x": 67,
+            "y": 61
         },
         "8": {
-            "dataRef": "8a18deaf-72ba-417e-b99e-0a9991e4bd00",
+            "dataRef": "c72daedb-3436-4f9f-a43d-ebacf0a2a2f8",
             "isSecondaryMetabolite": false,
             "label": "node_8",
             "modelElementRef": "",
             "nodeId": "8",
             "nodeType": "diamond",
-            "x": 97,
-            "y": 38
+            "x": 65,
+            "y": 94
         }
     }
 }
